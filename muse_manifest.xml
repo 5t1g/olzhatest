@@ -1,0 +1,32 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="olzaha.kz" resolutions="1x" timestamp="1487420959467">
+  <folder name="css">
+    <file name="site_global.css" crc="509514945"/>
+    <file name="index.css" crc="522261375" ref="index"/>
+    <file name="olzhakz-_____.css" crc="334825073" ref="olzhakz-копия"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:olzhakz-копия"/>
+    <file name="museutils.js" crc="275725342" ref="index:olzhakz-копия"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:olzhakz-копия"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:olzhakz-копия"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:olzhakz-копия"/>
+  </folder>
+  <folder name="images">
+    <file name="twitter.png" crc="4102706121" ref="index:olzhakz-копия"/>
+    <file name="pinterest.png" crc="4214682508" ref="index:olzhakz-копия"/>
+    <file name="facebook.png" crc="317936629" ref="index:olzhakz-копия"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index"/>
+    <file name="ы.jpg" crc="3845651770" ref="index"/>
+    <file name="телефон.jpg" crc="132252982" ref="index"/>
+    <file name="главная.jpg" crc="106647793" ref="index"/>
+    <file name="шубарколь.jpg" crc="522191518" ref="index:olzhakz-копия"/>
+    <file name="344x171-90e4.jpg" crc="4293902968" ref="index:olzhakz-копия"/>
+    <file name="шоптыколь.jpg" crc="4268730623" ref="index:olzhakz-копия"/>
+    <file name="жалын.jpg" crc="118282299" ref="index:olzhakz-копия"/>
+    <file name="heart.png" crc="117585526" seo="true" ref="index:olzhakz-копия"/>
+  </folder>
+  <file name="index.html" crc="4168911448" seo="true" mt="1487419728305" redirect="true"/>
+  <file name="olzhakz-копия.html" crc="379892715" seo="true" mt="1487419575513" redirect="true"/>
+</manifest>
